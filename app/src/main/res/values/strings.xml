@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camara</string>
+    <string name="preview_area">Vista rápida</string>
+    <string name="button_capture">Capturar imagen</string>
+</resources>
